@@ -10,3 +10,5 @@ root:6 seçildi
      1    5
       \
        2
+
+www.patika.dev
